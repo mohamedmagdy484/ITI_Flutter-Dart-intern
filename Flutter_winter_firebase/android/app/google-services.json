@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "895086590118",
+    "project_id": "winter-app-d8988",
+    "storage_bucket": "winter-app-d8988.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895086590118:android:c80cd759798f805d975c67",
+        "android_client_info": {
+          "package_name": "com.example.flutter_winter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHF8C7Qj0pNKzIfrwJz2lb7vizVFUEB3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895086590118:android:a8ea99f313eebb6c975c67",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHF8C7Qj0pNKzIfrwJz2lb7vizVFUEB3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
